@@ -18,4 +18,4 @@ You can also add configurations to the `mvn test` command:
 * IE
 * Chrome
 
-Additonal browser choices can be added to the `browser.enum` file within the tests. The format is based on the style used by Browserstack, and your Selenium Grid must use the same stylings.
+Additonal browser choices can be added to the `browser.enum` file within the tests.
